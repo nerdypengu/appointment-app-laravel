@@ -1,2 +1,3 @@
-# simple-register-login-form-laravel
-An unfinished project, but will update it more in the future.
+# appointment-app-laravel
+
+Used Framework : Laravel 9
