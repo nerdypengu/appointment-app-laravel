@@ -31,9 +31,9 @@
         <div class="row">
           <div class="col-sm-8 text-sm">
             <div class="site-info">
-              <a href="#"><span class="mai-call text-primary"></span> 081233729088</a>
+              <a href="#"><span class="mai-call text-primary"></span> 123244235463</a>
               <span class="divider">|</span>
-              <a href="#"><span class="mai-mail text-primary"></span> eugeniaindrawan@gmail.com</a>
+              <a href="#"><span class="mai-mail text-primary"></span> example@gmail.com</a>
             </div>
           </div>
           <div class="col-sm-4 text-right text-sm">
