@@ -19,14 +19,14 @@ Admin Dahsboard : https://github.com/BootstrapDash/corona-free-dark-bootstrap-ad
 - Admin dashboard
 
 <h2>Run it locally</h2>
-1. Clone the project
- ``` git clone https://github.com/nerdypengu/appointment-app-laravel.git project-name ```
-2. Go to the project directory
-```cd project-name```
-3. Copy .env.example file to .env and edit database credentials there
-    ```composer install
-    php artisan key:generate
-    php artisan migrate:fresh --seed ```
+<p> 1. Clone the project </p>
+<code>git clone https://github.com/nerdypengu/appointment-app-laravel.git project-name</code>
+<p>2. Go to the project directory</p>
+<code>cd project-name</code>
+<p>3. Copy .env.example file to .env and edit database credentials there </p>
+    <code>composer install</code>
+    <code>php artisan key:generate</code>
+    <code>php artisan migrate:fresh --seed</code>
 
 Login :
 username :admin@gmail.com
@@ -35,8 +35,8 @@ password : password
 If Login not possible, please reregister
 
 <h2>Important Notice</h2>
-For Sending email to user featuree,
+For Sending email to user feature,
 You need to create app password for your gmail and use that password in your project env  MAIL_PASSWORD.
 For creating app password you check this video : https://www.youtube.com/watch?v=J4CtP1MBtOE
 
-There are still some bug here and there, please forgive me. I will bash those bugs later on.
+<p>There are still some bug here and there, please forgive me. I will bash those bugs later on. </p>
