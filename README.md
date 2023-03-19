@@ -8,17 +8,17 @@
 </p>
 
 
-#Used HTML Templates
+<h2>Used HTML Templates</h2>
 Main website : https://www.free-css.com/free-css-templates/page270/one-health
 Admin Dahsboard : https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template
 
-#Features
+<h2>Features</h2>
 - Email verification
 - Email notification
 - Sending email to user
 - Admin dashboard
 
-#Run it locally :
+<h2>Run it locally</h2>
 1. Clone the project
  ``` git clone https://github.com/nerdypengu/appointment-app-laravel.git project-name ```
 2. Go to the project directory
@@ -34,7 +34,7 @@ password : password
 
 If Login not possible, please reregister
 
-#Important Notice
+<h2>Important Notice</h2>
 For Sending email to user featuree,
 You need to create app password for your gmail and use that password in your project env  MAIL_PASSWORD.
 For creating app password you check this video : https://www.youtube.com/watch?v=J4CtP1MBtOE
